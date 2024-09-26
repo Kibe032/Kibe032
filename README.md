@@ -58,7 +58,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-## Certifications
 <div>
   <a href="https://www.credly.com/badges/9c4e4a24-ee49-4028-aadd-2e1afdfe4c8e/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Introduction%20to%20Cybersecurity-1679A7?style=for-the-badge&logo=Cisco&logoColor=white" />
